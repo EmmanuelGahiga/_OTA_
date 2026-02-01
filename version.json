@@ -1,9 +1,10 @@
 {
-  "versionCode": 1,
-  "forceUpdate": false,
-  "apkUrl": "https://github.com/USERNAME/REPO/releases/download/v1.0.0/Op1.apk",
-  "message": "Bienvenue dans Opgain !"
+  "versionCode": 2,
+  "forceUpdate": true,
+  "apkUrl": "https://github.com/EmmanuelGahiga/_OTA_/releases/download/v1.0.1/Op2.apk"
+  "message": "Verification du mise a jour"
 }
+
 
 
 
