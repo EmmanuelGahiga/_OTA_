@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "forceUpdate": true,
+  "versionCode": 1,
+  "forceUpdate": false,
   "apkUrl": "https://github.com/EmmanuelGahiga/_OTA_/releases/download/v1.0.1/OpGa2.apk",
   "message": "Vérification de la mise à jour"
 }
